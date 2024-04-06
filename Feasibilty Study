@@ -6,6 +6,9 @@ An AI Tool for inventory handling,whenever Inventory gets short we will move tow
 A database that can handle both types of requests at shop and global level which means we will have to split the database
 (module-d)
 
+Server: Payment Gateway
+(module-s)
+
 
 
 
