@@ -9,6 +9,11 @@ A database that can handle both types of requests at shop and global level which
 Server: Payment Gateway
 (module-s)
 
+Personalized Recommendations
+(module-r)
+
+
+
 
 
 
