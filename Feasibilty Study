@@ -1,0 +1,11 @@
+Preparing a complete Software Package for Sweets Shop
+
+An AI Tool for inventory handling,whenever Inventory gets short we will move towards the software updating the needed items , the algorithm will itself work and will find a suitable provider
+(module -a)
+
+A database that can handle both types of requests at shop and global level which means we will have to split the database
+(module-d)
+
+
+
+
